@@ -1,0 +1,25 @@
+Add the following images to this directory:
+
+Required Images:
+- profile.jpg (300x300px) - Your main profile photo
+- about.jpg (400x500px) - Professional photo for about section
+- deepfake.jpg (400x250px) - Deepfake detection project image
+- toxicity.jpg (400x250px) - Comment toxicity detection project image
+- gesture.jpg (400x250px) - Hand gesture controller project image
+- sign-language.jpg (400x250px) - Sign language detection project image
+- job-portal.jpg (400x250px) - Job portal website project image
+- ecommerce.jpg (400x250px) - E-commerce website project image
+- favicon.ico (32x32px) - Website favicon
+
+Image Guidelines:
+- Use high-quality, professional images
+- Optimize for web (compress to reduce file size)
+- Maintain consistent aspect ratios
+- Use modern, clean aesthetics
+- Ensure images are your own or properly licensed
+
+You can use placeholder images from:
+- Unsplash.com (free stock photos)
+- Pexels.com (free stock photos)
+- Your own project screenshots
+- Professional headshots
