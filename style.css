@@ -1,0 +1,62 @@
+body { 
+    font-family: 'Arial', sans-serif; 
+}
+
+.gradient-bg { 
+    background: linear-gradient(135deg, #6366f1, #8b5cf6); 
+}
+
+.text-gradient { 
+    background: linear-gradient(135deg, #6366f1, #8b5cf6); 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent; 
+}
+
+.hero-section { 
+    min-height: 100vh; 
+    background: linear-gradient(135deg, #f8fafc 0%, rgba(99, 102, 241, 0.05) 100%); 
+}
+
+.profile-placeholder { 
+    width: 200px; 
+    height: 200px; 
+    background: linear-gradient(135deg, #6366f1, #8b5cf6); 
+    border-radius: 50%; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    color: white; 
+    font-size: 3rem; 
+    font-weight: bold; 
+    margin: 0 auto; 
+}
+
+.project-placeholder { 
+    height: 150px; 
+    background: linear-gradient(135deg, #6366f1, #8b5cf6); 
+    color: white; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    font-weight: bold; 
+    border-radius: 10px; 
+}
+
+.card { 
+    border: none; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    transition: transform 0.3s; 
+}
+
+.card:hover { 
+    transform: translateY(-5px); 
+}
+
+.skill-tag { 
+    background: linear-gradient(135deg, #6366f1, #8b5cf6); 
+    color: white; 
+    padding: 0.5rem 1rem; 
+    border-radius: 20px; 
+    margin: 0.2rem; 
+    display: inline-block; 
+}
