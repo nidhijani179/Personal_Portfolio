@@ -1,3 +1,8 @@
+<img width="1908" height="832" alt="Screenshot 2025-10-02 235345" src="https://github.com/user-attachments/assets/f61239e4-2a75-40d9-8285-4f71e319dd22" />
+<img width="1897" height="860" alt="Screenshot 2025-10-02 235328" src="https://github.com/user-attachments/assets/67a5bb9a-4144-4137-8829-8a11481c3d7e" />
+<img width="1869" height="875" alt="Screenshot 2025-10-02 235413" src="https://github.com/user-attachments/assets/693f8a4b-fd4f-479f-a478-498c2c13c2da" />
+<img width="1894" height="872" alt="Screenshot 2025-10-02 235355" src="https://github.com/user-attachments/assets/c391e8ed-4d2e-425c-94b5-405f5da5fb86" />
+
 # Nidhi Jani - Personal Portfolio Website
 
 A modern, responsive personal portfolio website built with Flask, featuring AI/ML projects, professional experience, and contact functionality.
